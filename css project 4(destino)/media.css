@@ -1,0 +1,1525 @@
+@media(min-width:360px) {
+    * {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    header {
+        width: 100%;
+        height: 650px;
+        padding-top: 0px;
+    }
+
+    .container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .head1 {
+        width: 100%;
+    }
+
+    .head11 {
+        position: absolute;
+        left: 25%;
+        top: 9%;
+    }
+
+    .head2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .head2 .main {
+        display: flex;
+        font-size: 15px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .main .mainlist {
+        padding: 10px 0px;
+    }
+
+    .btn1 {
+        align-content: center;
+        margin-left: 40%;
+        margin-right: 40%;
+        padding-left: 20px;
+    }
+
+    /* head3 */
+    .head3 {
+        width: 100%;
+        height: auto;
+    }
+
+    .hcontain {
+        margin-top: 30%;
+        margin-left: 1%;
+    }
+
+    .header_outer {
+        font-size: 50px;
+    }
+
+    .header_inner {
+        font-size: 16px;
+        left: 20%;
+    }
+
+    /* section 2 */
+    .find {
+        height: 560px;
+    }
+
+    .container2 {
+        width: 80%;
+    }
+
+    .container2 h1 {
+        font-size: 20px;
+    }
+
+    .adventureas {
+        flex-direction: column;
+    }
+
+    .destination {
+        width: 100%;
+    }
+
+    .adventure {
+        width: 100%;
+    }
+
+    .minprice {
+        width: 100%;
+    }
+
+    .mxprice {
+        width: 100%;
+    }
+
+    .btn2 {
+        width: 40%;
+        height: 40px;
+        margin: auto;
+        align-content: center;
+        text-align: center;
+        background-color: var(--color_pink);
+        margin-top: 22px;
+    }
+
+    /* section 3 */
+    .desitination {
+        height: auto;
+    }
+
+    .desitination h1 {
+        font-size: 28px;
+    }
+
+    .container3 {
+        width: 90%;
+        flex-direction: column;
+    }
+
+    .cbox1 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .cbox2 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .cbox3 {
+        margin-top: 25px;
+        width: 100%;
+    }
+
+    .cbox4 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    /* section 4 */
+    .maldive {
+        height: 1000px;
+        margin-top: 50px;
+    }
+
+    .conatiner4 {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .malbox1 {
+        width: 100%;
+    }
+
+    .malbox2 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    /* section 5 */
+    .section5 {
+        width: 100%;
+        height: 550px;
+        padding-top: 25%;
+    }
+
+    .container5 {
+        width: 100%;
+        height: auto;
+    }
+
+    .container5 h1 {
+        font-size: 30px;
+    }
+
+    /* section 6 */
+    .gallery {
+        width: 100%;
+        height: auto;
+        padding-top: 6%;
+        margin-top: 80px;
+    }
+
+    .gallery h1 {
+        font-size: 28px;
+    }
+
+    .container6 {
+        width: 90%;
+    }
+
+    .gbox {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gbox1 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox2 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox3 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox4 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox22 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gbox5 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox6 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox7 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox8 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    /* section 7 */
+    .section7 {
+        width: 100%;
+        height: auto;
+        margin-top: 40px;
+    }
+
+    .section7 h1 {
+        font-size: 28px;
+    }
+
+    .container7 {
+        width: 90%;
+        margin: auto;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .sbox1 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .sbox2 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .sbox3 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .sbox4 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .sbox5 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    /* sectiuon 8 */
+    .section8 {
+        width: 100%;
+        height: 450px;
+    }
+
+    .container8 {
+        width: 100%;
+    }
+
+    .container8 h1 {
+        font-size: 28px;
+    }
+
+    .form3 {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .form2 {
+        width: 80%;
+        margin: auto;
+    }
+
+    .btn5 {
+        width: 19%;
+        margin-left: 25%;
+        margin-top: 15%;
+        text-align: center;
+        align-content: center;
+    }
+
+    /* section 9 */
+    footer {
+        width: 100%;
+        height: auto;
+    }
+
+    .subfooter {
+        width: 90%;
+        flex-direction: column;
+    }
+
+    .fbox1 {
+        width: 100%;
+    }
+
+    .ffbox h2 {
+        font-size: 20px;
+        padding-left: 10%;
+    }
+
+    .ffbox h3 {
+        font-size: 7px;
+        padding-left: 10%;
+    }
+
+    .fffbox {
+        position: absolute;
+        left: calc(0%);
+        top: 9%;
+    }
+
+    .fbox2 {
+        width: 100%;
+    }
+
+    .fbox3 {
+        width: 100%;
+    }
+}
+
+@media(min-width:720px) {
+    * {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    header {
+        width: 100%;
+        height: 650px;
+        padding-top: 0px;
+    }
+
+    .container {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .head1 {
+        width: 100%;
+    }
+
+    .head11 {
+        position: absolute;
+        left: 25%;
+        top: 9%;
+    }
+
+    .head2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .head2 .main {
+        display: flex;
+        font-size: 15px;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .main .mainlist {
+        padding: 10px 0px;
+    }
+
+    .btn1 {
+        align-content: center;
+        margin-left: 40%;
+        margin-right: 40%;
+        padding-left: 20px;
+    }
+
+    /* head3 */
+    .head3 {
+        width: 100%;
+        height: auto;
+    }
+
+    .hcontain {
+        margin-top: 15%;
+        margin-left: 1%;
+    }
+
+    .header_outer {
+        font-size: 100px;
+    }
+
+    .header_inner {
+        font-size: 35px;
+        left: 19%;
+    }
+
+    /* section 2 */
+    .find {
+        height: 350px;
+    }
+
+    .container2 {
+        width: 80%;
+    }
+
+    .container2 h1 {
+        font-size: 20px;
+    }
+
+    .adventureas {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .destination {
+        width: 49%;
+    }
+
+    .adventure {
+        width: 49%;
+    }
+
+    .minprice {
+        width: 32%;
+    }
+
+    .mxprice {
+        width: 32%;
+    }
+
+    .btn2 {
+        width: 32%;
+        height: auto;
+        margin: 0px;
+        align-content: center;
+        text-align: center;
+        background-color: var(--color_pink);
+        margin-top: 22px;
+    }
+
+    /* section 3 */
+    .desitination {
+        height: auto;
+    }
+
+    .desitination h1 {
+        font-size: 28px;
+    }
+
+    .container3 {
+        width: 90%;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .cbox1 {
+        width: 49%;
+        margin-top: 25px;
+    }
+
+    .cbox2 {
+        width: 49%;
+        margin-top: 25px;
+    }
+
+    .cbox3 {
+        margin-top: 2%;
+        width: 49%;
+    }
+
+    .cbox4 {
+        width: 49%;
+        margin-top: 2%;
+    }
+
+    /* section 4 */
+    .maldive {
+        height: 900px;
+        margin-top: 50px;
+    }
+
+    .conatiner4 {
+        width: 90%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .malbox1 {
+        width: 100%;
+    }
+
+    .malbox1 h1 {
+        font-size: 135px;
+        margin-top: calc(0% + -5%);
+    }
+
+    .malbox1 h2 {
+        font-size: 32px;
+        margin-top: calc(0% + -7%);
+    }
+
+    .btn3 {
+        margin-top: 10%;
+    }
+
+    .malbox2 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .malbox2 h1 {
+        font-size: 135px;
+        margin-top: calc(0% + -5%);
+    }
+
+    .malbox2 h2 {
+        font-size: 32px;
+        margin-top: calc(0% + -7%);
+    }
+
+    .btn3 {
+        margin-top: 10%;
+    }
+
+    /* section 5 */
+    .section5 {
+        width: 100%;
+        height: 550px;
+        padding-top: 20%;
+    }
+
+    .container5 {
+        width: 100%;
+        height: auto;
+    }
+
+    .container5 h1 {
+        font-size: 40px;
+    }
+
+    /* section 6 */
+    .gallery {
+        width: 100%;
+        height: auto;
+        padding-top: 6%;
+        margin-top: 80px;
+    }
+
+    .gallery h1 {
+        font-size: 28px;
+    }
+
+    .container6 {
+        width: 70%;
+    }
+
+    .gbox {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gbox1 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox2 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox3 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox4 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox22 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gbox5 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox6 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox7 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox8 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    /* section 7 */
+    .section7 {
+        width: 100%;
+        height: auto;
+        margin-top: 40px;
+    }
+
+    .section7 h1 {
+        font-size: 28px;
+    }
+
+    .container7 {
+        width: 80%;
+        margin: auto;
+        flex-direction: column;
+        height: auto;
+    }
+
+    .sbox1 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .sbox2 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .sbox3 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .sbox4 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .sbox5 {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    /* sectiuon 8 */
+    .section8 {
+        width: 100%;
+        height: 450px;
+    }
+
+    .container8 {
+        width: 100%;
+    }
+
+    .container8 h1 {
+        font-size: 34px;
+    }
+
+    .form3 {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .form2 {
+        width: 80%;
+        margin: auto;
+    }
+
+    .btn5 {
+        width: 19%;
+        margin-left: 35%;
+        margin-top: 15%;
+        text-align: center;
+        align-content: center;
+    }
+
+    /* section 9 */
+    footer {
+        width: 100%;
+        height: auto;
+    }
+
+    .subfooter {
+        width: 70%;
+        flex-direction: column;
+    }
+
+    .fbox1 {
+        width: 100%;
+    }
+
+    .ffbox h2 {
+        font-size: 20px;
+        padding-left: 10%;
+    }
+
+    .ffbox h3 {
+        font-size: 7px;
+        padding-left: 10%;
+    }
+
+    .fffbox {
+        position: absolute;
+        left: 4%;
+        top: 9%;
+    }
+
+    .fbox2 {
+        width: 100%;
+    }
+
+    .fbox3 {
+        width: 100%;
+    }
+}
+
+@media(min-width:991px) {
+    * {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    header {
+        width: 100%;
+        height: 825px;
+        padding-top: 70px;
+    }
+
+    .container {
+        width: 65%;
+        display: flex;
+        flex-direction: row;
+        height: 100px;
+    }
+
+    .head1 {
+        width: 30%;
+    }
+
+    .head11 {
+        position: absolute;
+        left: 4%;
+        top: 9%;
+    }
+
+    .head2 {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .head2 .main {
+        display: flex;
+        font-size: 15px;
+        flex-direction: row;
+        text-align: center;
+    }
+
+    .main .mainlist {
+        padding: 0px 7px;
+    }
+
+    .btn1 {
+        align-content: center;
+        margin-left: 0%;
+        margin-right: 0%;
+        padding: 0px 38px;
+    }
+
+    /* head3 */
+    .head3 {
+        width: 100%;
+        height: auto;
+    }
+
+    .hcontain {
+        margin-top: 30%;
+        margin-left: 1%;
+    }
+
+    .header_outer {
+        font-size: 100px;
+    }
+
+    .header_inner {
+        font-size: 35px;
+        left: 19%;
+    }
+
+    /* section 2 */
+    .find {
+        height: 275px;
+    }
+
+    .container2 {
+        width: 70%;
+    }
+
+    .container2 h1 {
+        font-size: 20px;
+    }
+
+    .adventureas {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .destination {
+        width: 33%;
+    }
+
+    .adventure {
+        width: 33%;
+    }
+
+    .minprice {
+        width: 10.1%;
+    }
+
+    .mxprice {
+        width: 10.1%;
+    }
+
+    .btn2 {
+        width: 10.1%;
+        height: auto;
+        margin: 0px;
+        align-content: center;
+        text-align: center;
+        background-color: var(--color_pink);
+        margin-top: 22px;
+    }
+
+    /* section 3 */
+    .desitination {
+        height: auto;
+    }
+
+    .desitination h1 {
+        font-size: 28px;
+    }
+
+    .container3 {
+        width: 90%;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .cbox1 {
+        width: 49%;
+        margin-top: 25px;
+    }
+
+    .cbox2 {
+        width: 49%;
+        margin-top: 25px;
+    }
+
+    .cbox3 {
+        margin-top: 2%;
+        width: 49%;
+    }
+
+    .cbox4 {
+        width: 49%;
+        margin-top: 2%;
+    }
+
+    /* section 4 */
+    .maldive {
+        height: 650px;
+        margin-top: 150px;
+    }
+
+    .conatiner4 {
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .malbox1 {
+        width: 46%;
+    }
+
+    .malbox1 h1 {
+        font-size: 135px;
+        margin-top: calc(0% + -5%);
+    }
+
+    .malbox1 h2 {
+        font-size: 32px;
+        margin-top: calc(0% + -7%);
+    }
+
+    .btn3 {
+        margin-top: 10%;
+    }
+
+    .malbox2 {
+        width: 46%;
+        margin-top: 0px;
+    }
+
+    .malbox2 h1 {
+        font-size: 135px;
+        margin-top: calc(0% + -5%);
+    }
+
+    .malbox2 h2 {
+        font-size: 32px;
+        margin-top: calc(0% + -7%);
+    }
+
+    .btn3 {
+        margin-top: 10%;
+    }
+
+    /* section 5 */
+    .section5 {
+        width: 100%;
+        height: 650px;
+        padding-top: 10%;
+    }
+
+    .container5 {
+        width: 50%;
+        height: 300px;
+    }
+
+    .container5 h1 {
+        font-size: 40px;
+    }
+
+    /* section 6 */
+    .gallery {
+        width: 100%;
+        height: auto;
+        padding-top: 6%;
+        margin-top: 80px;
+    }
+
+    .gallery h1 {
+        font-size: 28px;
+    }
+
+    .container6 {
+        width: 65%;
+    }
+
+    .gbox {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gbox1 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox2 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox3 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox4 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox22 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gbox5 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox6 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox7 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    .gbox8 {
+        width: 100%;
+        margin-top: 5%;
+    }
+
+    /* sectiuon 8 */
+    .section8 {
+        width: 100%;
+        height: 450px;
+    }
+
+    .container8 {
+        width: 100%;
+    }
+
+    .container8 h1 {
+        font-size: 34px;
+    }
+
+    .form3 {
+        width: 100%;
+        flex-direction: column;
+    }
+
+    .form2 {
+        width: 80%;
+        margin: auto;
+    }
+
+    .btn5 {
+        width: 19%;
+        margin-left: 40%;
+        margin-top: 15%;
+        text-align: center;
+        align-content: center;
+    }
+
+    /* section 9 */
+    footer {
+        width: 100%;
+        height: auto;
+    }
+
+    .subfooter {
+        width: 65%;
+        flex-direction: column;
+    }
+
+    .fbox1 {
+        width: 100%;
+    }
+
+    .ffbox h2 {
+        font-size: 20px;
+        padding-left: 10%;
+    }
+
+    .ffbox h3 {
+        font-size: 7px;
+        padding-left: 10%;
+    }
+
+    .fffbox {
+        position: absolute;
+        left: 5%;
+        top: 9%;
+    }
+
+    .fbox2 {
+        width: 100%;
+    }
+
+    .fbox3 {
+        width: 100%;
+    }
+}
+
+@media(min-width:1235px) {
+    * {
+        margin: 0%;
+        padding: 0%;
+        box-sizing: border-box;
+        text-decoration: none;
+        list-style: none;
+    }
+
+    header {
+        width: 100%;
+        height: 825px;
+        padding-top: 90px;
+    }
+
+    .container {
+        width: 65%;
+        display: flex;
+        flex-direction: row;
+        height: 120px;
+    }
+
+    .head1 {
+        width: 20%;
+    }
+
+    .head11 {
+        position: absolute;
+        left: 9%;
+        top: 9%;
+    }
+
+    .head2 {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .head2 .main {
+        display: flex;
+        font-size: 15px;
+        flex-direction: row;
+        text-align: center;
+    }
+
+    .main .mainlist {
+        padding: 0px 20px;
+    }
+
+    .btn1 {
+        align-content: center;
+        margin-left: 50px;
+        margin-right: 0%;
+        padding: 0px 46px;
+    }
+
+    /* head3 */
+    .head3 {
+        width: 100%;
+        height: 635px;
+    }
+
+    .hcontain {
+        margin-top: 0%;
+    }
+
+    .header_outer {
+        font-size: 210px;
+    }
+
+    .header_inner {
+        font-size: 72px;
+        left: 22%;
+    }
+
+    /* section 2 */
+    .find {
+        height: 275px;
+    }
+
+    .container2 {
+        width: 65%;
+    }
+
+    .container2 h1 {
+        font-size: 20px;
+    }
+
+    .adventureas {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .destination {
+        width: 33%;
+    }
+
+    .adventure {
+        width: 33%;
+    }
+
+    .minprice {
+        width: 10.1%;
+    }
+
+    .mxprice {
+        width: 10.1%;
+    }
+
+    .btn2 {
+        width: 10.1%;
+        height: auto;
+        margin: 0px;
+        align-content: center;
+        text-align: center;
+        background-color: var(--color_pink);
+        margin-top: 22px;
+    }
+
+    /* section 3 */
+    .desitination {
+        height: 750px;
+    }
+
+    .desitination h1 {
+        font-size: 45px;
+    }
+
+    .container3 {
+        width: 65%;
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    .cbox1 {
+        width: 23%;
+        margin-top: 0PX;
+    }
+
+    .cbox2 {
+        width: 23%;
+        margin-top: 0px;
+    }
+
+    .cbox3 {
+        margin-top: 0px;
+        width: 23%;
+    }
+
+    .cbox4 {
+        width: 23%;
+        margin-top: 0PX;
+    }
+
+    /* section 4 */
+    .maldive {
+        height: 650px;
+        margin-top: 75px;
+    }
+
+    .conatiner4 {
+        width: 65%;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .malbox1 {
+        width: 46%;
+    }
+
+    .malbox1 h1 {
+        font-size: 155px;
+        margin-top: calc(0% + -13%);
+    }
+
+    .malbox1 h2 {
+        font-size: 34px;
+        margin-top: calc(0% + -10%);
+    }
+
+    .btn3 {
+        margin-top: 10%;
+    }
+
+    .malbox2 {
+        width: 46%;
+        margin-top: 0px;
+    }
+
+    .malbox2 h1 {
+        font-size: 155px;
+        margin-top: calc(0% + -13%);
+    }
+
+    .malbox2 h2 {
+        font-size: 34px;
+        margin-top: calc(0% + -10%);
+    }
+
+    .btn3 {
+        margin-top: 10%;
+    }
+
+    /* section 5 */
+    .section5 {
+        width: 100%;
+        height: 650px;
+        padding-top: 10%;
+    }
+
+    .container5 {
+        width: 50%;
+        height: 300px;
+    }
+
+    .container5 h1 {
+        font-size: 40px;
+    }
+
+    /* section 6 */
+    .gallery {
+        width: 100%;
+        height: 725px;
+        padding-top: 8%;
+        margin-top: 0px;
+        margin-bottom: 8%;
+    }
+
+    .gallery h1 {
+        font-size: 45px;
+    }
+
+    .container6 {
+        width: 65%;
+    }
+
+    .gbox {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .gbox1 {
+        width: 24%;
+        margin-top: 0%;
+    }
+
+    .gbox2 {
+        width: 24%;
+        margin-top: 0%;
+    }
+
+    .gbox3 {
+        width: 24%;
+        margin-top: 0%;
+    }
+
+    .gbox4 {
+        width: 24%;
+        margin-top: 0%;
+    }
+
+    .gbox22 {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .gbox5 {
+        width: 24%;
+        margin-top: 0%;
+    }
+
+    .gbox6 {
+        width: 24%;
+        margin-top: 0%;
+    }
+
+    .gbox7 {
+        width: 24%;
+        margin-top: 0%;
+    }
+
+    .gbox8 {
+        width: 24%;
+        margin-top: 0%;
+    }
+
+    /* section 7 */
+    .section7 {
+        width: 100%;
+        height: auto;
+        margin-top: 40px;
+    }
+
+    .section7 h1 {
+        font-size: 45px;
+    }
+
+    .container7 {
+        width: 100%;
+        margin: auto;
+        flex-direction: row;
+        height: 600px;
+    }
+
+    .sbox1 {
+        width: 19.8%;
+        margin-top: 0px;
+    }
+
+    .sbox2 {
+        width: 19.8%;
+        margin-top: 0px;
+    }
+
+    .sbox3 {
+        width: 19.8%;
+        margin-top: 0px;
+    }
+
+    .sbox4 {
+        width: 19.8%;
+        margin-top: 0px;
+    }
+
+    .sbox5 {
+        width: 19.8%;
+        margin-top: 0px;
+    }
+
+    /* sectiuon 8 */
+    .section8 {
+        width: 100%;
+        height: 355px;
+    }
+
+    .container8 {
+        width: 60%;
+    }
+
+    .container8 h1 {
+        font-size: 38px;
+    }
+
+    .form3 {
+        flex-direction: row;
+    }
+
+    .form2 {
+        width: 79%;
+        margin: 0%;
+    }
+
+    .btn5 {
+        width: 19%;
+        margin-left: 0%;
+        margin-top: 0.8%;
+        text-align: center;
+        align-content: center;
+    }
+
+    /* section 9 */
+    footer {
+        width: 100%;
+        height: auto;
+    }
+
+    .subfooter {
+        width: 65%;
+        flex-direction: row;
+    }
+
+    .fbox1 {
+        width: 32%;
+    }
+
+    .ffbox h2 {
+        font-size: 20px;
+        padding-left: 10%;
+    }
+
+    .ffbox h3 {
+        font-size: 7px;
+        padding-left: 10%;
+    }
+
+    .fffbox {
+        position: absolute;
+        left: 1%;
+        top: 10%;
+    }
+
+    .fbox2 {
+        width: 32%;
+    }
+
+    .fbox3 {
+        width: 32%;
+    }
+}
